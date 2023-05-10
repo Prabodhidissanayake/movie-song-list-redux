@@ -16,7 +16,7 @@ To run the **Movie-Song List** project locally, please follow the steps below:
 1. Clone the project repository:
 
    ```
-   git clone https://github.com/your-username/movie-song-list.git
+   git clone https://github.com/Prabodhidissanayake/movie-song-list-redux.git
    ```
 
 2. Navigate to the project directory:
